@@ -13,6 +13,8 @@ https://www.bilibili.com/video/av98092339?from=search&seid=14348361958703498260
 好像也是视频选集  
 课程大纲：  
 第一课 Tensorflow简介，Anaconda安装，Tensorflow的CPU版本安装。  
+  学习中，  
+  TensorBoard非常直观  
 第二课 Tensorflow的基础使用，包括对图(graphs),会话(session),张量(tensor),变量(Variable)的一些解释和操作。  
 第三课 Tensorflow线性回归以及分类的简单使用，softmax介绍。  
 第四课 交叉熵(cross-entropy)，过拟合，dropout以及Tensorflow中各种优化器的介绍。  
