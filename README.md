@@ -45,4 +45,16 @@ https://www.bilibili.com/video/av62215565?from=search&seid=14348361958703498260
 150课，non-free  
 https://study.163.com/course/introduction.htm?courseId=1004573006#/courseDetail?tab=1  
   
-  
+
+官方  
+资源  
+https://tensorflow.google.cn/resources/learn-ml  
+指南  
+https://tensorflow.google.cn/guide  
+教程  
+https://tensorflow.google.cn/tutorials  
+mnist
+http://yann.lecun.com/exdb/mnist/
+
+
+
