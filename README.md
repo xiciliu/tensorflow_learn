@@ -5,6 +5,8 @@ record tensorflow learning
 视频学习:  
 按顺序学习。  
   
+30天学习计划  
+https://github.com/lyhue1991/eat_tensorflow2_in_30_days  
   
 Tensorflow 深度学习框架学习与应用  
 40课   
